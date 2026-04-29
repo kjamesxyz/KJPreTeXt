@@ -61,30 +61,30 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Homework 1",
-  "body": " Homework 1    Due: Wednesday, July 1 at the beginning of class.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.   Exercises 1.1 [pg.10]: Problems 1-4, 11-12, 21-22, 25.    Exercises 1.2 [pg.17]: Problems 1-2, 7-8, 11-12, 29, 35-38.    Exercises 1.3 [pg.27]: Problems 1-2, 5, 7, 9-10, 13, 15.       Assigned problems    Provide an example of a second-order, linear differential equation. Justify your answer.      Find an interval on which the function is a solution to the differential equation .      A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min.     Draw a picture of the scenario.      Identify and label the independent and dependent variable in the model.      Write an initial value problem that models the amount of salt in the tank over time.      Solve the initial value problem you created in the above problem.      "
+  "body": " Homework 1    Due: Wednesday, July 1 at the beginning of class.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.   Exercises 1.1 [pg.10]: Problems 1-4, 11-12, 21-22, 25.    Exercises 1.2 [pg.17]: Problems 1-2, 7-8, 11-12, 29, 35-38.    Exercises 1.3 [pg.27]: Problems 1-2, 5, 7, 9-10, 13, 15.       Assigned problems   Instructions: The following problems are assigned. Write all solutions on a separate sheet of paper. Please clearly label your work with which question it corresponds to.     Provide an example of a second-order, linear differential equation. Justify your answer.      Find an interval on which the function is a solution to the differential equation       A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min.     Draw a picture of the scenario.      Identify and label the independent and dependent variable in the model.      Write an initial value problem that models the amount of salt in the tank over time.      Solve the initial value problem you created in the above problem.     "
 },
 {
-  "id": "sec-hw1-assigned-2",
+  "id": "homework-2-5",
   "level": "2",
-  "url": "homework-2.html#sec-hw1-assigned-2",
+  "url": "homework-2.html#homework-2-5",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Provide an example of a second-order, linear differential equation. Justify your answer.   "
 },
 {
-  "id": "sec-hw1-assigned-3",
+  "id": "homework-2-6",
   "level": "2",
-  "url": "homework-2.html#sec-hw1-assigned-3",
+  "url": "homework-2.html#homework-2-6",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Find an interval on which the function is a solution to the differential equation .   "
+  "body": "  Find an interval on which the function is a solution to the differential equation    "
 },
 {
-  "id": "sec-hw1-assigned-4",
+  "id": "homework-2-7",
   "level": "2",
-  "url": "homework-2.html#sec-hw1-assigned-4",
+  "url": "homework-2.html#homework-2-7",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
