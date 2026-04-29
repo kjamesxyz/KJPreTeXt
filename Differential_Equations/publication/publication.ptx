@@ -146,10 +146,10 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
-        theme="denver"
-        primary-color="#386F94"
-        primary-color-dark="#5192BD"
-        provide-dark-mode="yes"
+        theme="default-modern"
+        primary-color="#CD001A"
+        secondary-color="#002A4E"
+        provide-dark-mode="no"
     />
 
     <!-- Search can be default or none, or you can use a Google-cx number to use google's search
