@@ -1,0 +1,10 @@
+INFO    : Since no target was supplied, we will use "course".
+
+INFO    : XSL conversion of E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx by C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Building theme for target 'course'
+INFO    : XSL conversion of E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx by C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Building custom css theme: theme-greeley
+INFO    : Theme built for target 'course'
+INFO    : 

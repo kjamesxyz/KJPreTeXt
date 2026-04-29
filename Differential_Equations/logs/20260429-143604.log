@@ -1,0 +1,42 @@
+INFO    : Building target print
+INFO    : XSL conversion of E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx by C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into E:\Work Documents\KJPreTeXt\Differential_Equations\output\print.
+INFO    : discovering source file's directory name: E:\Work Documents\KJPreTeXt\Differential_Equations\source
+INFO    : verifying and expanding input directory: E:\Work Documents\KJPreTeXt\Differential_Equations\source\../generated-assets
+INFO    : input directory expanded to absolute path: E:\Work Documents\KJPreTeXt\Differential_Equations\generated-assets
+INFO    : verifying and expanding input directory: E:\Work Documents\KJPreTeXt\Differential_Equations\source\../assets
+INFO    : input directory expanded to absolute path: E:\Work Documents\KJPreTeXt\Differential_Equations\assets
+INFO    : XSL conversion of E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx by C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\locka\.ptx\2.38.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : converting E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx to LaTeX as C:\Users\locka\AppData\Local\Temp\ptx-q8p05s6j\main.tex
+INFO    : XSL conversion of E:\Work Documents\KJPreTeXt\Differential_Equations\source\main.ptx by C:\Users\locka\.ptx\2.38.3\core\xsl\pretext-latex.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking all deprecated elements.
+ERROR   : * PTX:BUG:   an element ("page") does not know its level
+INFO    : *              located within: "Homework 1" (title)
+ERROR   : * PTX:BUG:  development bug, new level does not match old level for "section"
+INFO    : *              located within: "sec-hw1-practice" (xml:id), "Practice Problems" (title)
+ERROR   : * PTX:BUG:   an element ("page") does not know its level
+ERROR   : * PTX:BUG:  development bug, new level does not match old level for "section"
+INFO    : *              located within: "sec-hw1-assigned" (xml:id), "Assigned Problems" (title)
+INFO    : successful application of C:\Users\locka\.ptx\2.38.3\core\xsl\pretext-latex.xsl
+INFO    : Rerunning LaTeX for main.tex (pass 2)
+INFO    : Removing temporary directory C:\Users\locka\AppData\Local\Temp\ptx-q8p05s6j
+INFO    : Removing temporary directory C:\Users\locka\AppData\Local\Temp\ptx-p2hu3a1o
+INFO    : Removing temporary directory C:\Users\locka\AppData\Local\Temp\ptx-vrabn38u
+INFO    : 
+Finished build for target print. The output is in E:\Work Documents\KJPreTeXt\Differential_Equations\output\print.
+
+CRITICAL: There were errors during the build.  See above.
+INFO    : ------------------------
+CRITICAL: Failed to build without errors.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
