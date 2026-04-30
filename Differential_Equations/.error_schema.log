@@ -1,5 +1,5 @@
-<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got worksheet
-<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element worksheet there
-<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got worksheet
-<string>:4:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element page, got title
-<string>:4:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element title there
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got section
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element section there
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got section
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got section
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got section
