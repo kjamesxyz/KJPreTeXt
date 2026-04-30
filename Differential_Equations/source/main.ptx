@@ -22,10 +22,11 @@
     </chapter>
 
     <chapter xml:id="modules">
-      <title>Modules</title>
+      <title>Course Work</title>
 
       <!-- Course syllabus -->
       <xi:include href="./modules/U26_262_roadmap_1.ptx" />
+      <xi:include href="./modules/U26_262_prep_1.ptx" />
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
