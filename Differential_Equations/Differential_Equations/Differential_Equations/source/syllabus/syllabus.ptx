@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Syllabus</title>
+
+  <introduction>
+    <p>
+      Welcome to MATH-262-01 (Differential Equations)! This is the syllabus for our course. It is a document where you can find information about course policies and procedures.
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-course-info">
+    <title>Course Information</title>
+
+    <p>
+      
+      <dl>
+        <li>
+          <title>Instructor</title>
+
+          <p>
+            Dr. K. James, SW 341 <url href="mailto:kjames13@svsu.edu">kjames13@svsu.edu</url>.
+          </p>
+        </li>
+
+        <li>
+          <title>Meeting Room</title>
+
+          <p>
+            Brown Hall Room 107
+          </p>
+        </li>
+
+        <li>
+          <title>Meeting Time</title>
+
+          <p>
+            Face-to-face on Mondays and Wednesdays from 5:45p-7:45p.
+          </p>
+        </li>
+      </dl>
+    </p>
+
+  <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>What do we do in MATH-262?</title>
+
+      <p>
+        The course catalog describes this course simply lists this class as covering “Exact solutions of common types of first-order ordinary differential equations, linear equations of higher order, power series solutions, Laplace transforms, linear systems including matrix methods, graphical and numerical techniques and applications of differential equations.”
+      </p>
+      <p>
+        I believe this description misses the bigger picture from Differential Equations. These types of equations model countless real-world phenomena, as they can describe characteristics of real systems that change throughout time and space. This course is the study of modelling such phenomena. 
+      </p>
+      
+    </paragraphs>
+  </subsection>
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-assessments">
+    <title>Assessments and Grades</title>
+
+    <p>
+    </p>
+  </subsection>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<frontmatter>
+  <bibinfo>
+    <author>
+      <personname>Author K. James</personname>
+    </author>
+  </bibinfo>
+  <titlepage>
+    <titlepage-items>
+      
+    </titlepage-items>
+  </titlepage>
+  
+  <abstract>
+    <p>
+      This is the abstract.
+    </p>
+  </abstract>
+</frontmatter>

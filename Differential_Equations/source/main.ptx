@@ -25,7 +25,7 @@
       <title>Modules</title>
 
       <!-- Course syllabus -->
-      <xi:include href="./modules/U26_262_prep_module_1.ptx" />
+      <xi:include href="./modules/U26_262_roadmap_1.ptx" />
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
