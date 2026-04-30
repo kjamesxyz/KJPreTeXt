@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="mod-1-prep">
+  <title>Module 1 Roadmap</title>
+
+  <introduction>
+    <p>
+      All of the content in this module should be completed before class on <alert> Wednesday, July 1 </alert>. 
+    </p>
+  </introduction>
+
+  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+  <subsection xml:id="mod-1-prep-vids">
+    <title>Lecture Videos</title>
+    <p>
+      Please watch each of the following lecture videos in the order they are listed below. 
+      <ol>
+        <li>
+          <p>
+            Video 1
+          </p>
+        </li>
+      </ol>
+    </p>
+  </subsection>
+
+  <subsection xml:id="mod-1-prep-checks">
+    <title>Checkpoints</title>
+    <p>
+      Please complete each of the following checkpoints in the order they are listed below. 
+      <ol>
+        <li>
+          <p>
+            Checkpoint 1.1.1
+          </p>
+        </li>
+      </ol>
+    </p>
+  </subsection>
+
+
+  <subsection xml:id="mod-1-prep-work">
+    <title>Prep Work</title>
+    <p>
+      Please record each of the following definitions in your prep-work journal. 
+      <ul>
+        <li>
+          <p>
+            Definition 
+          </p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+
+  <subsection xml:id="mod-1-prep-hw">
+    <title>Homeworks</title>
+    <p>
+      Please complete the assigned problems from Homework 1.
+    </p>
+  </subsection>
+
+</section>
+
+<!-- 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 -->

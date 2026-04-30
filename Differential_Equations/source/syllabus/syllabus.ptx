@@ -9,7 +9,7 @@
     </p>
   </introduction>
   <!-- Include chapters -->
-  <subsection xml:id="sec-course-info">
+  <subsection xml:id="syllabus-course-info">
     <title>Course Information</title>
 
     <p>
@@ -19,7 +19,15 @@
           <title>Instructor</title>
 
           <p>
-            Dr. K. James, SW 341 <url href="mailto:kjames13@svsu.edu">kjames13@svsu.edu</url>.
+            Dr. Kohl James
+          </p>
+        </li>
+
+        <li>
+          <title>Email</title>
+
+          <p>
+           <url href="mailto:kjames13@svsu.edu">kjames13@svsu.edu</url>
           </p>
         </li>
 
@@ -41,7 +49,31 @@
       </dl>
     </p>
 
-  <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>Office Hours</title>
+      <p>
+        My office is located in SW-341, but I will host office hours from 3:30p-5:30p and will be held in the MPLC (see next section). I am also available for appointment if these times do not work for you. Office hours are a great place to get help on homework, ask questions about course materials, or even just have a cup of coffee and chat. They will be your single greatest resource outside of class, so please use them!
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Math \amp Physics Learning Center</title>
+      <p>
+        The Math \amp Physics Learning Center (MPLC) is located on the second floor of Zhanow Library. Their hours of operation are <alert>TBD</alert>. The cost of the MLPC is included in your tuition, meaning you have already paid to use it! The center has on-demand tutors and free refreshments, making it an ideal place to sit to work on your assignments in this class. You can also make a a free one-on-one appointment with a tutor by calling them at (989) 964-4648 or emailing them at <url href="mailto:mathtutor@svsu.edu">mathtutor@svsu.edu</url>.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Communication about Class</title>
+      <p>
+        If you need to get a hold of me outside of our face-to-face sessions, I am most easily reached by email at kjames13@svsu.edu. The best times to reach me are between 10:00 am and 4:00 pm on Monday-Thursday, but I respond to emails within 24 hours. I am typically out of the office over the weekends (Saturdays and Sundays) and on holidays. During these times, I will still reply to your email within 48 hours. 
+      </p>
+      <p>
+        I will also use email as a primary method of communicating with you. I will send reminders and announcements to the class over email. When emailing me (or addressing me in person), please feel free to address me as Kohl. If it is intimidating to call me by my first name, you may call me Mr. or Dr. James. If you are emailing me about problems or technical difficulties, it is helpful for me if you can include a screenshot/picture of the issue. I kindly request that all email correspondence remain professional (e.g. appropriate language and grammar). Finally, it will be helpful for me if you could sign your emails with your preferred name. 
+      </p>
+    </paragraphs>
+
+    <!-- Use paragraphs to break apart subsections -->
     <paragraphs>
       <title>What do we do in MATH-262?</title>
 
@@ -53,6 +85,24 @@
       </p>
       
     </paragraphs>
+
+    <paragraphs xml:id="syllabus-slos">
+      <title>Student Learning Outcomes</title>
+      <p>
+        Students that pass this course will be able to...
+        <ol>
+          <li>
+            <p> Classify differential equations according to their order and homogeneity. </p>
+            <p> Determine and apply appropriate solutions to first-order differential equations. </p>
+            <p> Determine and apply appropriate solution methods for different classes of higher-order differential equations. </p>
+            <p> Determine and apply appropriate solution methods for systems of differential equations. </p>
+            <p> Build and deconstruct mathematical models for real-world phenomena that are modeled by differential equations. </p>
+            <p> Approximate the solution to ordinary differential equations using simple numerical methods. </p>
+          </li>
+        </ol>
+      </p>
+    </paragraphs>
+
   </subsection>
 
   <!-- Other subsections for larger dividers -->
